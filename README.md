@@ -4,6 +4,7 @@ Welcome to the JCC Gateway Church project! This web application serves as the on
 
 Description
 The JCC Gateway Church project aims to provide a user-friendly website for JCC Gateway Church, enabling visitors to access information about the church, its services, and events. The website incorporates responsive design principles, ensuring an optimal viewing experience across different devices and screen sizes.
+![image](https://github.com/daveSeme/JCC-GATEWAY/assets/93138002/6bf30121-55a1-48e0-ba3e-4aaf8bd6290f)
 
 Features
 Home Page: Displays an overview of the church, its mission, and upcoming events.
